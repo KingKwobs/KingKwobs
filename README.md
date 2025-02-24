@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @KingKwobs
+- 👀 I’m interested in Business, Tech, Data, Fashion...
+- 🌱 I’m currently learning Python tobecome a data scientist...
+- 💞️ I’m looking to collaborate on python projects...
+- 📫 How to reach me +1 5086153715, https://www.linkedin.com/in/elvisopokuagyemang/
+<!---
+KingKwobs/KingKwobs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
